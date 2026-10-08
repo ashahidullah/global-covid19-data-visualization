@@ -51,7 +51,7 @@ Includes:
 - Top 10 countries comparison
 
 ### Excel Dashboard
-![Excel Dashboard](images/dashboard_excel.jpg)
+![Excel Dashboard](images/Dashboard_Excel.jpg)
 
 ## Skills Demonstrated
 Data Cleaning | Exploratory Data Analysis | Data Visualization | Time-Series Analysis | Dashboard Development | Python | Tableau | Excel
