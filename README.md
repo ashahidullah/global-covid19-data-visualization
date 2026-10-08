@@ -28,6 +28,8 @@ Includes:
 - World map visualization
 - Active vs. confirmed cases bubble chart
 - Time-series analysis and ARIMA forecasting
+### Python Dashboard
+![Python Dashboard](images/dashboard_python.jpg)
 
 ## Dashboard 2: Tableau
 Includes:
@@ -36,6 +38,9 @@ Includes:
 - WHO regional comparisons
 - Top 10 countries by confirmed cases
 - Interactive country and region filters
+  
+### Tableau Dashboard
+![Tableau Dashboard](images/dashboard_tableau.jpg)
 
 ## Dashboard 3: Microsoft Excel
 Includes:
@@ -44,23 +49,14 @@ Includes:
 - Recovery rate comparison by WHO region
 - Top 10 countries comparison
 
+### Excel Dashboard
+![Excel Dashboard](images/dashboard_excel.jpg)
+
 ## Skills Demonstrated
 Data Cleaning | Exploratory Data Analysis | Data Visualization | Time-Series Analysis | Dashboard Development | Python | Tableau | Excel
 
 ## Limitations
 This project uses historical data and is not a real-time COVID-19 tracker. Dashboard KPI values and aggregation methods should be reviewed before using the results as official global totals.
-
-
-## Dashboard Screenshots
-
-### Python Dashboard
-![Python Dashboard](images/dashboard_python.jpg)
-
-### Tableau Dashboard
-![Tableau Dashboard](images/dashboard_tableau.jpg)
-
-### Excel Dashboard
-![Excel Dashboard](images/dashboard_excel.jpg)
 
 
 ## Author
