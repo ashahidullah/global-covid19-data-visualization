@@ -40,7 +40,8 @@ Includes:
 - Interactive country and region filters
   
 ### Tableau Dashboard
-![Tableau Dashboard](images/dashboard_tableau.jpg)
+![Tableau Dashboard](images/Dashboard_Tableau.jpg)
+
 
 ## Dashboard 3: Microsoft Excel
 Includes:
